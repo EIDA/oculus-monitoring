@@ -12,12 +12,13 @@ import HomePage from './components/HomePage.vue'
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
+      <!-- <HomePage /> -->
     </div>
   </header>
 
   <main>
-    <TheWelcome />
-    <WelcomeItemVue />
+    <!-- <TheWelcome />
+    <WelcomeItemVue /> -->
   </main>
 </template>
 
